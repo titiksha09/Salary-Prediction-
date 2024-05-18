@@ -1,2 +1,2 @@
 # Salary-Prediction-
-This is a salary prediction model , trained with the help of simple regression where only one factor is used i.e year of expercinece
+This repository contains a simple implementation of a linear regression model. Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. This model is implemented using Python and the scikit-learn library. This is a salary prediction model , trained with the help of simple regression where only one factor is used i.e year of expercinece
